@@ -1,4 +1,4 @@
-# 🔐 Détection de Fraude Bancaire — Projet DDDM
+# Détection de Fraude Bancaire — Projet DDDM
 
 ## Description
 
