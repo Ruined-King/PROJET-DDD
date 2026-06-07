@@ -15,11 +15,15 @@ fraud_detection/
 ├── data/                        # Données brutes et traitées
 │   ├── generate_data.py         # Script de génération du dataset synthétique
 │   └── data_dictionary.md       # Dictionnaire des données
+│   └──clients.csv
+│   └──transactions.csv
 ├── notebooks/
 │   └── fraud_detection_full.ipynb   # Notebook principal (toutes les phases)
 ├── dashboard/
 │   └── app.py                   # Dashboard interactif Streamlit
 ├── models/                      # Modèles sauvegardés
+│   └── scaler.pkl
+│   └── xgboost_fraud_model.pkl
 ├── reports/
 │   ├── ab_test_plan.md          # Plan A/B Test (2 pages)
 │   └── data_story_outline.md   # Structure de la Data Story (15 slides)
@@ -81,4 +85,3 @@ streamlit run dashboard/app.py
 ## Équipe
 
 Projet réalisé dans le cadre du module **Data-Driven Decision Making**  
-Date limite : **07 Juin 2026**
