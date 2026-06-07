@@ -87,9 +87,9 @@
 
 ### SLIDE 11 — Nos 3 recommandations
 **Actionnables. Quantifiées. Prioritisées.**
-1. 🥇 Déployer XGBoost en production → -40% de pertes
-2. 🥈 Challenge 3D Secure nocturne hors-pays → coût zéro
-3. 🥉 Alertes SMS pour clients à historique fraude → prévention
+1. Déployer XGBoost en production → -40% de pertes
+2. Challenge 3D Secure nocturne hors-pays → coût zéro
+3. Alertes SMS pour clients à historique fraude → prévention
 
 ---
 
