@@ -45,9 +45,9 @@
 
 ### SLIDE 6 — Ce que les données révèlent (EDA)
 **3 signaux forts de fraude**
-- 🌙 Les fraudes frappent la nuit (0h–5h) : taux ×8
-- 🌍 Certains pays concentrent le risque (CN, NG, RO)
-- 💰 Les montants frauduleux sont 3× plus élevés
+- Les fraudes frappent la nuit (0h–5h) : taux ×8
+- Certains pays concentrent le risque (CN, NG, RO)
+- Les montants frauduleux sont 3× plus élevés
 - Visualisations : boxplots, cartes, heatmaps
 
 ---
